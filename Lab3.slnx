@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Step1_uptime/Step1_uptime.vcxproj" Id="acad965f-8da2-4bf0-8b97-05c14eb4a5d0" />
+  <Project Path="Step2_branch/Step2_branch.vcxproj" Id="f273eeaf-1e13-48ce-9606-36fe067a8c25" />
+  <Project Path="Step3_buffer/Step3_buffer.vcxproj" Id="17266bb3-dbb6-4e2e-845b-e929c3c27508" />
+  <Project Path="Step4_month/Step4_month.vcxproj" Id="554c706a-4360-4086-86d0-f5345c66bcbd" />
+  <Project Path="Step5_variant/Step5_variant.vcxproj" Id="12d702b6-8818-459c-ac1c-879285dc33a1" />
+</Solution>
